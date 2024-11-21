@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://arnab18:arnab18@arnab.vl19e.mongodb.net/?retryWrites=true&w=majority&appName=Arnab",
+    "mongodbUri": "mongodb+srv://arnab18:arnab18@cluster0.vl19e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
